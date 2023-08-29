@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Jiyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=camp5803&show_icons=true&theme=dracula)
+<!--![Jiyong's GitHub stats](https://github-readme-stats.vercel.app/api?username=camp5803&show_icons=true&theme=dracula)-->
 
 <!-- 
 **camp5803/camp5803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
